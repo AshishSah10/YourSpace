@@ -1,2 +1,2 @@
 # YourSpace
-Website to store all data for any individual
+Website to store all types of data for any individual
